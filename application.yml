@@ -1,6 +1,6 @@
 
 server:
-  port: 8124
+  port: 8123
 
 spring:
   security:
